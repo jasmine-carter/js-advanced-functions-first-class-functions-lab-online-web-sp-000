@@ -1,6 +1,6 @@
 // Code your solution in this file!
 
-function returnFirstTwoDrivers() {
+function returnFirstTwoDrivers(drivers) {
   const firstTwo = function(array){
     return array.slice(0,2)
   }
