@@ -1,6 +1,6 @@
 // Code your solution in this file!
 function returnFirstTwoDrivers() {
-  function(array){
+  const firstTwo = function(array){
     return array.slice(Math.max(arr.length - 2, 1))
   }
 }
