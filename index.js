@@ -2,7 +2,6 @@
 
 const returnFirstTwoDrivers = function(drivers) {
     return array.slice(0,2)
-  }
 }
 
 function returnLastTwoDrivers() {
