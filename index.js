@@ -4,8 +4,6 @@ const returnFirstTwoDrivers = function(drivers) {
     return drivers.slice(0,2)
 }
 
-function returnLastTwoDrivers() {
-  const lastTwo = function(array){
+const returnLastTwoDrivers = function(drivers) {
     return array.slice(Math.max(array.length - 2, 2))
-  }
 }
